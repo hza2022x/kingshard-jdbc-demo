@@ -1,5 +1,6 @@
 create database kingshard;
 use kingshard;
+
 create table test_shard_hash_0000
 (
     id   int primary key,
